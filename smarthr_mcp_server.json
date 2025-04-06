@@ -1,0 +1,14 @@
+{
+    "mcpServers": {
+        "smarthr": {
+            "command": "uv",
+            "args": [
+                "--directory",
+                "/path/to/smarthr-mcp-server",
+                "run",
+                "python",
+                "main.py"
+            ]
+        }
+    }
+}
